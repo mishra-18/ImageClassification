@@ -6,6 +6,9 @@ Weights: ResNet50_Weights.IMAGENET1K_V1
 EPOCHS = 60
 Dataset: Oxford flower102
 ```
+
+The Classifier is deployed on [Huggingface space](https://huggingface.co/spaces/smishr-18/FlowerClassification), you can perform inference from there.
+
 Results:
 |Set      |Accuracy|Loss   |
 |---------|--------|-------|
